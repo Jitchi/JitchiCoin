@@ -1,0 +1,2 @@
+# JitchiCoin
+study
